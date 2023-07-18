@@ -40,7 +40,7 @@
 
 ## BD
 
-[Tema 1: Introducció](https://alvarinstitut.github.io/ApuntsBD/BD-T01_Introduccio/index.html)
+[Tema 1: Introducció](https://asalvadorc.github.io/apunts/ApuntsBD/BD-T01_Introduccio/index.html)
 
 [Tema 2: Model E/R](https://alvarinstitut.github.io/ApuntsBD/BD-T02_Model_E-R/index.html)
 
